@@ -1,0 +1,16 @@
+{
+  "appId": "com.foodquest.app",
+  "appName": "FoodQuest",
+  "webDir": "www",
+  "ios": {
+    "contentInset": "automatic",
+    "allowsLinkPreview": false,
+    "scrollEnabled": true
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0,
+      "backgroundColor": "#020100"
+    }
+  }
+}
